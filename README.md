@@ -48,6 +48,6 @@ Welcome to my data analysis portfolio! Here you will find end-to-end projects co
 ---
 
 ## 🛠️ Tech Stack & Skills
-* **Data Analysis & Visualization:** Excel (Advanced Dashboards, Formulas), SQL, Power BI, Python (Basics learning)
-* **Core Competencies:** Data Cleaning, Funnel Analysis, Business Intelligence, HR Analytics
-*
+* **Data Analysis & Visualization:** Excel (Advanced Dashboards, Formulas, MySQL (CTEs, Window Functions, Case When, Aggregations), Power BI (DAX, Relationships, Dashboard), Python (Basics) 
+* **Core Competencies:** Data Cleaning, Data Visualisation, Data Analysis, Funnel Analysis, Business Intelligence, 
+
