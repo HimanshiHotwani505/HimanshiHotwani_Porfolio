@@ -13,7 +13,7 @@ Welcome to my data analysis portfolio! Here you will find end-to-end projects co
 
 ### 🛒 1. E-Commerce Funnel Analysis Project
 * **Description:** Analyzed customer conversion funnels and user drop-off points to optimize digital marketing performance.
-* **Tools Used:** Excel / SQL / Data Analysis
+* **Tools Used:** Excel / SQL / Power BI / AI
 * **Files & Resources:** 
   * 📁 [View Project Folder on Google Drive](https://drive.google.com/drive/folders/1C352TWfcYzujxoFopyglw0WUeT4nOvGe?usp=drive_link)
 
