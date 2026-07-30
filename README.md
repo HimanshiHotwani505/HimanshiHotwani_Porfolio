@@ -11,10 +11,13 @@ Welcome to my data analysis portfolio! Here you will find end-to-end projects co
 
 ## 🚀 Featured Projects
 
-### 1. 🛒 E-Commerce Sales Funnel & Conversion Analytics
-* **Tools Used:** Power BI | SQL | Advanced Excel AI
+* ### 1. 🛒 E-Commerce Conversion Optimization & Funnel Analytics
+* **Tools Used:** Power BI | SQL | Advanced Excel | AI
 * **Domain:** E-Commerce & Consumer Retail
 * **Summary:** Analyzed customer drop-off across key purchase funnel stages—from landing page interactions to checkout completion. Identified critical friction points, modeled conversion leakages, and quantified revenue recovery strategies.
+
+#### 📸 Executive Dashboard Preview:
+![E-Commerce Dashboard Preview](./E-Commerce_Dashboard_Overview.png)
 
 #### 📁 Project Files & Artifacts:
 * 📊 **Power BI Interactive Dashboard:** [`E-COMMERCE FUNNEL ANALYSIS PROJECT.pbix`](./E-COMMERCE%20FUNNEL%20ANALYSIS%20PROJECT.pbix)
@@ -69,4 +72,4 @@ Welcome to my data analysis portfolio! Here you will find end-to-end projects co
 
 ## 📬 Connect & Contact
 * **GitHub Profile:** [HimanshiHotwani505](https://github.com/HimanshiHotwani505)
-***Linkedin Profile:** [https://www.linkedin.com/in/himanshihotwaniofficiall)
+* **Linkedin Profile:** [HimanshiHotwani_Linkedin](https://www.linkedin.com/in/himanshihotwaniofficiall)
