@@ -1,53 +1,65 @@
 # HimanshiHotwani_Porfolio
 
-# 📊 Himanshi Hotwani | Data Analyst Portfolio
+# 📊 Himanshi Hotwani | Data Analytics & Business Intelligence Portfolio
 
 Welcome to my data analysis portfolio! Here you will find end-to-end projects covering data cleaning, exploratory data analysis, interactive Excel dashboards, and SQL queries.
 
 > 💡 **Important Note for Reviewers:**  
 > Please **download the `.xlsx` files and open them directly in Microsoft Excel** for the best viewing experience! Opening these files in Google Sheets or web previews may distort dashboard formatting, pivot charts, and dynamic slicers.
+> 
+
+## 🚀 Featured Projects
+
+### 1. 🛒 E-Commerce Sales Funnel & Conversion Analytics
+* **Tools Used:** Power BI | SQL | Advanced Excel
+* **Domain:** E-Commerce & Consumer Retail
+* **Summary:** Analyzed customer drop-off across key purchase funnel stages—from landing page interactions to checkout completion. Identified critical friction points, modeled conversion leakages, and quantified revenue recovery strategies.
+
+> 🖼️ **Executive Visual Preview:**
+> *(Upload your dashboard image as `dashboard_preview.png` to view directly)*
+> ![E-Commerce Dashboard Preview](./dashboard_preview.png)
+
+#### 📁 Project Files & Artifacts:
+* 📊 **Power BI Interactive Dashboard:** [`E-COMMERCE FUNNEL ANALYSIS PROJECT.pbix`](./E-COMMERCE%20FUNNEL%20ANALYSIS%20PROJECT.pbix)
+* 📈 **Full Excel Dataset (Google Drive):** [Download Full Dataset](https://docs.google.com/spreadsheets/d/1QxLpWhVRcvD_oB-Sr6zCSJuF_K_2Q3IH/edit?usp=drive_link&ouid=100385539789551355045&rtpof=true&sd=true)
+* 📜 **SQL Data Transformation Script:** [`E-commerce Project_SQL.sql`](./E-commerce%20Project_SQL.sql)
+* 📄 **Executive Project Summary:** [`E-Commerce Project_Summary.docx`](./E-Commerce%20Project_Summary.docx)
+* 📑 **SQL Documentation & Analysis (PDF):** [`Himanshi_SQL__Ecommerce Project.pdf`](./Himanshi_SQL__Ecommerce%20Project.pdf)
 
 ---
 
-## 📁 Projects & Case Studies
+### 2. 👥 HR Workforce Attrition & Employee Satisfaction Analytics
+* **Tools Used:** MS Excel | Data Modeling | Pivot Analysis
+* **Domain:** Human Resources & Operations
+* **Summary:** Diagnosed workforce attrition patterns across 1,470 employee records to uncover core drivers behind turnover. Highlighted high overtime friction, burnout metrics, and retention risks among early-tenure hires.
 
-### 🛒 1. E-Commerce Funnel Analysis Project
-* **Description:** Analyzed customer conversion funnels and user drop-off points to optimize digital marketing performance.
-* **Tools Used:** Excel / SQL / Power BI / AI
-* **Files & Resources:** 
-  * 📁 [View Project Folder on Google Drive](https://drive.google.com/drive/folders/1C352TWfcYzujxoFopyglw0WUeT4nOvGe?usp=drive_link)
-
----
-
-### 🚲 2. Bike Sales Analysis & Dashboard
-* **Description:** Built an interactive Excel dashboard tracking customer demographics, purchase behavior, and sales trends.
-* **Tools Used:** Excel (Pivot Tables, Charts, Slicers)
-* **Files & Resources:**
-  * ⬇️ **[Download & Open in Excel: Bike Sales Dashboard (.xlsx)](https://drive.google.com/drive/folders/1uloBR48GdNUT6HBs9vYAxD4_40-FpSei?usp=drive_link)**
+#### 📁 Project Files & Artifacts:
+* 📊 **HR Analytics Excel Dashboard:** [`HR DATA_Excel_Dashboard.xlsx`](./HR%20DATA_Excel_Dashboard.xlsx)
 
 ---
 
-### 👥 3. HR Data Analytics Dashboard
-* **Description:** Key metrics dashboard monitoring employee distribution, performance, and key HR operational insights.
-* **Tools Used:** Excel Dashboard
-* **Files & Resources:**
-  * ⬇️ **[Download & Open in Excel: HR Data Dashboard (.xlsx)](https://drive.google.com/drive/folders/1g0QoEeEJ0gsqLhwHygtT76PjHWR8qeq-?usp=drive_link)**
+### 3. 🗃️ SQL Data Analytics & Data Cleaning Case Studies
+* **Tools Used:** SQL (Joins, Aggregations, Window Functions, Subqueries) | Data Cleaning
+* **Domain:** Database Querying & Exploratory Data Analysis (EDA)
+* **Summary:** Applied structured SQL queries and data transformation techniques to resolve real-world database queries, clean raw analytical datasets, and deliver structured business insights.
+
+#### 📁 Project Files & Artifacts:
+* 📜 **Data Cleaning Portfolio:** [`Himanshi_DataCleaning_Portfolio.docx`](./Himanshi_DataCleaning_Portfolio.docx)
+* 📜 **SQL Case Study Portfolio:** [`Himanshi_SQL_Portfolio-1.docx`](./Himanshi_SQL_Portfolio-1.docx)
 
 ---
 
-### 🧹 4. Data Cleaning & SQL Showcase
+## 🛠️ Technical Skill Set
 
-#### 📄 Data Cleaning Documentation
-* Detailed breakdown of data transformation, handling missing values, standardizing formats, and outlier detection.
-* 📄 [Read Data Cleaning Report (.docx)](https://docs.google.com/document/d/1eomEMpbMW8Ctf1lczsshj6cQWDBUzz13/edit?usp=drive_link&ouid=100385539789551355045&rtpof=true&sd=true)
-
-#### 🗄️ SQL Queries & Portfolio
-* Comprehensive SQL scripts demonstrating JOINs, CTEs, Aggregations, and Window Functions.
-* 📄 [Read SQL Portfolio Documentation (.docx)](https://docs.google.com/document/d/1GiCq0NXQmYaMHwPcLLOLMxt0yX-QWv2Y/edit?usp=drive_link&ouid=100385539789551355045&rtpof=true&sd=true)
+| Category | Tools & Skill Sets |
+| :--- | :--- |
+| **Business Intelligence** | Power BI, Interactive Dashboards, DAX, Data Modeling |
+| **Data Analysis & Excel** | Advanced MS Excel (Pivot Tables, VLOOKUP, Power Query) |
+| **Database Management** | SQL (Joins, Aggregations, Window Functions, Data Cleaning) |
+| **Analytical Methods** | Funnel Analysis, Attrition Diagnostics, Cohort Analysis |
 
 ---
 
-## 🛠️ Tech Stack & Skills
-* **Data Analysis & Visualization:** Excel (Advanced Dashboards, Formulas, MySQL (CTEs, Window Functions, Case When, Aggregations), Power BI (DAX, Relationships, Dashboard), Python (Basics) 
-* **Core Competencies:** Data Cleaning, Data Visualisation, Data Analysis, Funnel Analysis, Business Intelligence, 
-
+## 📬 Connect & Contact
+* **GitHub Profile:** [HimanshiHotwani505](https://github.com/HimanshiHotwani505)
+*
