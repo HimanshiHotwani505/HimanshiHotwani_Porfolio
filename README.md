@@ -8,20 +8,17 @@ Welcome to my data analysis portfolio! Here you will find end-to-end projects co
 > Please **download the `.xlsx` files and open them directly in Microsoft Excel** for the best viewing experience! Opening these files in Google Sheets or web previews may distort dashboard formatting, pivot charts, and dynamic slicers.
 > 
 
+
 ## 🚀 Featured Projects
 
 ### 1. 🛒 E-Commerce Sales Funnel & Conversion Analytics
-* **Tools Used:** Power BI | SQL | Advanced Excel
+* **Tools Used:** Power BI | SQL | Advanced Excel AI
 * **Domain:** E-Commerce & Consumer Retail
 * **Summary:** Analyzed customer drop-off across key purchase funnel stages—from landing page interactions to checkout completion. Identified critical friction points, modeled conversion leakages, and quantified revenue recovery strategies.
 
-> 🖼️ **Executive Visual Preview:**
-> *(Upload your dashboard image as `dashboard_preview.png` to view directly)*
-> ![E-Commerce Dashboard Preview](./dashboard_preview.png)
-
 #### 📁 Project Files & Artifacts:
 * 📊 **Power BI Interactive Dashboard:** [`E-COMMERCE FUNNEL ANALYSIS PROJECT.pbix`](./E-COMMERCE%20FUNNEL%20ANALYSIS%20PROJECT.pbix)
-* 📈 **Full Excel Dataset (Google Drive):** [Download Full Dataset](https://docs.google.com/spreadsheets/d/1QxLpWhVRcvD_oB-Sr6zCSJuF_K_2Q3IH/edit?usp=drive_link&ouid=100385539789551355045&rtpof=true&sd=true)
+* 📈 **Excel Dataset, view the Raw & Cleaned Data, Data Transformation, Industry-Real Questions with the probable solutions as per the DATA ANALYSIS (Google Drive):** [Download Full Dataset](https://docs.google.com/spreadsheets/d/1QxLpWhVRcvD_oB-Sr6zCSJuF_K_2Q3IH/edit?usp=drive_link&ouid=100385539789551355045&rtpof=true&sd=true)
 * 📜 **SQL Data Transformation Script:** [`E-commerce Project_SQL.sql`](./E-commerce%20Project_SQL.sql)
 * 📄 **Executive Project Summary:** [`E-Commerce Project_Summary.docx`](./E-Commerce%20Project_Summary.docx)
 * 📑 **SQL Documentation & Analysis (PDF):** [`Himanshi_SQL__Ecommerce Project.pdf`](./Himanshi_SQL__Ecommerce%20Project.pdf)
@@ -38,7 +35,17 @@ Welcome to my data analysis portfolio! Here you will find end-to-end projects co
 
 ---
 
-### 3. 🗃️ SQL Data Analytics & Data Cleaning Case Studies
+### 3. 🚲 Bike Sales Consumer Segmentation & Purchasing Behavior
+* **Tools Used:** MS Excel | Pivot Tables | Customer Demographics
+* **Domain:** Consumer Retail & Behavior Analysis
+* **Summary:** Evaluated consumer demographic attributes including income levels, commute distances (0–1 miles), age groups, and car ownership to analyze purchase conversion triggers for bicycle sales.
+
+#### 📁 Project Files & Artifacts:
+* 📊 **Bike Sales Excel Dashboard:** [`Excel Project_Bike Sales Dashboard (1).xlsx`](./Excel%20Project_Bike%20Sales%20Dashboard%20(1).xlsx)
+
+---
+
+### 4. 🗃️ SQL Data Analytics & Data Cleaning Case Studies
 * **Tools Used:** SQL (Joins, Aggregations, Window Functions, Subqueries) | Data Cleaning
 * **Domain:** Database Querying & Exploratory Data Analysis (EDA)
 * **Summary:** Applied structured SQL queries and data transformation techniques to resolve real-world database queries, clean raw analytical datasets, and deliver structured business insights.
@@ -54,12 +61,12 @@ Welcome to my data analysis portfolio! Here you will find end-to-end projects co
 | Category | Tools & Skill Sets |
 | :--- | :--- |
 | **Business Intelligence** | Power BI, Interactive Dashboards, DAX, Data Modeling |
-| **Data Analysis & Excel** | Advanced MS Excel (Pivot Tables, VLOOKUP, Power Query) |
-| **Database Management** | SQL (Joins, Aggregations, Window Functions, Data Cleaning) |
-| **Analytical Methods** | Funnel Analysis, Attrition Diagnostics, Cohort Analysis |
+| **Data Analysis & Excel** | Advanced MS Excel (Pivot Tables, Advanced Formulas, Power Query) |
+| **Database Management** | SQL (Joins, Aggregations, Complex Functions, Data Cleaning) |
+| **Analytical Methods** | Funnel Analysis, Attrition Diagnostics, Consumer Segmentation |
 
 ---
 
 ## 📬 Connect & Contact
 * **GitHub Profile:** [HimanshiHotwani505](https://github.com/HimanshiHotwani505)
-*
+***Linkedin Profile:** [https://www.linkedin.com/in/himanshihotwaniofficiall)
