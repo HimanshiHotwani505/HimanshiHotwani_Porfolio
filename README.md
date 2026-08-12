@@ -61,7 +61,7 @@ Welcome to my data analysis portfolio! Here you will find end-to-end projects co
 * **Summary:** Evaluated consumer demographic attributes including income levels, commute distances (0–1 miles), age groups, and car ownership to analyze purchase conversion triggers for bicycle sales.
 
   #### 📸 Executive Dashboard Preview:
-![Bike Sales Analytics Dashboard Preview](./Bike Sales_Analytics_Dashboard.png)
+![Bike Sales Analytics Dashboard Preview](./Bike_Sales_Analytics_Dashboard.png)
 
 #### 📁 Project Files & Artifacts:
 * 📊 **Bike Sales Excel Dashboard:** [`Excel Project_Bike Sales Dashboard (1).xlsx`](./Excel%20Project_Bike%20Sales%20Dashboard%20(1).xlsx)
