@@ -47,6 +47,9 @@ Welcome to my data analysis portfolio! Here you will find end-to-end projects co
 * **Domain:** Human Resources & Operations
 * **Summary:** Diagnosed workforce attrition patterns across 1,470 employee records to uncover core drivers behind turnover. Highlighted high overtime friction, burnout metrics, and retention risks among early-tenure hires.
 
+  #### 📸 Executive Dashboard Preview:
+![HR Analytics Dashboard Preview](./HR_Analytics_Dashboard.png)
+
 #### 📁 Project Files & Artifacts:
 * 📊 **HR Analytics Excel Dashboard:** [`HR DATA_Excel_Dashboard.xlsx`](./HR%20DATA_Excel_Dashboard.xlsx)
 
@@ -56,6 +59,9 @@ Welcome to my data analysis portfolio! Here you will find end-to-end projects co
 * **Tools Used:** MS Excel | Pivot Tables | Customer Demographics
 * **Domain:** Consumer Retail & Behavior Analysis
 * **Summary:** Evaluated consumer demographic attributes including income levels, commute distances (0–1 miles), age groups, and car ownership to analyze purchase conversion triggers for bicycle sales.
+
+  #### 📸 Executive Dashboard Preview:
+![Bike Sales Analytics Dashboard Preview](./Bike Sales_Analytics_Dashboard.png)
 
 #### 📁 Project Files & Artifacts:
 * 📊 **Bike Sales Excel Dashboard:** [`Excel Project_Bike Sales Dashboard (1).xlsx`](./Excel%20Project_Bike%20Sales%20Dashboard%20(1).xlsx)
