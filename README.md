@@ -28,7 +28,21 @@ Welcome to my data analysis portfolio! Here you will find end-to-end projects co
 
 ---
 
-### 2. 👥 HR Workforce Attrition & Employee Satisfaction Analytics
+### 2. 🌿 Health Supplement E-Commerce Operations & Fulfillment Analytics
+* **Tools Used:** Power BI | Advanced Excel | Data Modeling
+* **Domain:** Direct-to-Consumer (D2C) E-Commerce & Logistics
+* **Summary:** Diagnosed order fulfillment bottlenecks, delivery drop-offs, and order aging across 70 transactions. Engineered custom tracking metrics (`Ageing Days`, `Action Required`, and 4-tier `Issue Categories`) to isolate delivery friction, audit data quality errors, and optimize prepaid conversion strategies.
+
+#### 📸 Executive Dashboard Preview:
+![Health Supplement Dashboard Preview](./Health_Supplement_Dashboard.png)
+
+#### 📁 Project Files & Artifacts:
+* 📊 **Power BI Interactive Visualizations:** [`Data Visualization_E-Commerce_HEALTH SUPPLEMENTS.pbix`](./Data%20Visualization_E-Commerce_HEALTH%20SUPPLEMENTS.pbix)
+* 📈 **Excel Data Analysis & Modeling:** [`Data Analysis_E-Commerce_HEALTH SUPPLEMENTS.xlsx`](./Data%20Analysis_E-Commerce_HEALTH%20SUPPLEMENTS.xlsx)
+
+---
+
+### 3. 👥 HR Workforce Attrition & Employee Satisfaction Analytics
 * **Tools Used:** MS Excel | Data Modeling | Pivot Analysis
 * **Domain:** Human Resources & Operations
 * **Summary:** Diagnosed workforce attrition patterns across 1,470 employee records to uncover core drivers behind turnover. Highlighted high overtime friction, burnout metrics, and retention risks among early-tenure hires.
@@ -38,7 +52,7 @@ Welcome to my data analysis portfolio! Here you will find end-to-end projects co
 
 ---
 
-### 3. 🚲 Bike Sales Consumer Segmentation & Purchasing Behavior
+### 4. 🚲 Bike Sales Consumer Segmentation & Purchasing Behavior
 * **Tools Used:** MS Excel | Pivot Tables | Customer Demographics
 * **Domain:** Consumer Retail & Behavior Analysis
 * **Summary:** Evaluated consumer demographic attributes including income levels, commute distances (0–1 miles), age groups, and car ownership to analyze purchase conversion triggers for bicycle sales.
@@ -48,7 +62,7 @@ Welcome to my data analysis portfolio! Here you will find end-to-end projects co
 
 ---
 
-### 4. 🗃️ SQL Data Analytics & Data Cleaning Case Studies
+### 5. 🗃️ SQL Data Analytics & Data Cleaning Case Studies
 * **Tools Used:** SQL (Joins, Aggregations, Window Functions, Subqueries) | Data Cleaning
 * **Domain:** Database Querying & Exploratory Data Analysis (EDA)
 * **Summary:** Applied structured SQL queries and data transformation techniques to resolve real-world database queries, clean raw analytical datasets, and deliver structured business insights.
